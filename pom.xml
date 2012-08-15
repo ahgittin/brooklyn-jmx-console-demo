@@ -19,11 +19,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.brooklyn.ext</groupId>
-            <artifactId>brooklyn-jmx-console</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-        <dependency>
             <groupId>io.brooklyn</groupId>
             <artifactId>brooklyn-software-webapp</artifactId>
             <version>${brooklyn.version}</version>
